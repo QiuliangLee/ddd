@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("bugFix2");
         System.out.println("bugFix2");
         System.out.println("bugFix3");
+        System.out.println("bugFix4");
     }
 }
