@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("bugFix 1");
         System.out.println("bugFix 2");
         System.out.println("bugFix2");
+        System.out.println("bugFix2");
     }
 }
